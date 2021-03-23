@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/currencyApp/static/css/main.a731ae0b.chunk.css",
+    "main.css": "/currencyApp/static/css/main.acbc4786.chunk.css",
     "main.js": "/currencyApp/static/js/main.d4d6f4f0.chunk.js",
     "main.js.map": "/currencyApp/static/js/main.d4d6f4f0.chunk.js.map",
     "runtime-main.js": "/currencyApp/static/js/runtime-main.dccd8ea2.js",
@@ -12,7 +12,7 @@
     "static/js/3.a468e13e.chunk.js.map": "/currencyApp/static/js/3.a468e13e.chunk.js.map",
     "index.html": "/currencyApp/index.html",
     "static/css/2.150d169a.chunk.css.map": "/currencyApp/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.a731ae0b.chunk.css.map": "/currencyApp/static/css/main.a731ae0b.chunk.css.map",
+    "static/css/main.acbc4786.chunk.css.map": "/currencyApp/static/css/main.acbc4786.chunk.css.map",
     "static/js/2.fb0fb00e.chunk.js.LICENSE.txt": "/currencyApp/static/js/2.fb0fb00e.chunk.js.LICENSE.txt",
     "static/media/change.e16b4ea1.png": "/currencyApp/static/media/change.e16b4ea1.png",
     "static/media/mon.de629cbd.png": "/currencyApp/static/media/mon.de629cbd.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.dccd8ea2.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.fb0fb00e.chunk.js",
-    "static/css/main.a731ae0b.chunk.css",
+    "static/css/main.acbc4786.chunk.css",
     "static/js/main.d4d6f4f0.chunk.js"
   ]
 }
